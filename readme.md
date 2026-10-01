@@ -1,16 +1,19 @@
 # Baguatte pékség
-## Minőségi pékárú árúsításában specializált messze visszanyúló történelmű vállalat
+## Minőségi pékárú árúsításában specializált növekvő vállalat
 
 paragrafus
 
 ## Forrás
 
-- lorem
-- ipsum
-- dolor
+- Rendelések vállalása
+- Kenyérfélék, egyedi és klasszikus édes, sós péksütemények
 
-1. egyik
-1. másik
+*Kenyérfélék- Fehérkenyér, F
+
+- Torták (), sütemények
+
+
+2. másik
 
 ## kiemelések
 
