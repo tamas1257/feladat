@@ -9,8 +9,7 @@
 - Kenyérfélék, egyedi és klasszikus édes, sós péksütemények
 
 *Kenyérfélék- Fehérkenyér, Félbarnakenyér, Rozskenyér, Rozsos kenyér, Graham-kenyér, Magvas Teljeskiörlésű kenyér, Ciabatta, Baguette.* -Különböző proporciókban
-*Édes péksütemény választék - (Magyar eredetű) Bukták, Briós, Kakaós/fahéjas csiga, Túrós péksütemények (batyu, pite), Piték (Almás, mákos, meggyes, túrós),
-(Olasz eredetű) Cornetto brioche, Maritozzo, Pasticiotto
+*Édes péksütemény választék - (Magyar eredetű) Bukták, Briós, Kakaós/fahéjas csiga, Túrós péksütemények (batyu, pite), Piték (Almás, mákos, meggyes, túrós), (Olasz eredetű) Cornetto brioche, Maritozzo, Pasticiotto, Cannoli*
 - Torták (), sütemények
 
 
