@@ -1,15 +1,16 @@
 # Baguatte pékség
 ## Minőségi pékárú árúsításában specializált növekvő vállalat
 
-paragrafus
+
 
 ## Forrás
 
 - Rendelések vállalása
 - Kenyérfélék, egyedi és klasszikus édes, sós péksütemények
 
-*Kenyérfélék- Fehérkenyér, F
-
+*Kenyérfélék- Fehérkenyér, Félbarnakenyér, Rozskenyér, Rozsos kenyér, Graham-kenyér, Magvas Teljeskiörlésű kenyér, Ciabatta, Baguette.* -Különböző proporciókban
+*Édes péksütemény választék - (Magyar eredetű) Bukták, Briós, Kakaós/fahéjas csiga, Túrós péksütemények (batyu, pite), Piték (Almás, mákos, meggyes, túrós),
+(Olasz eredetű) Cornetto brioche, Maritozzo, Pasticiotto
 - Torták (), sütemények
 
 
