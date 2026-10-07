@@ -3,21 +3,21 @@
 
 
 
-## Forrás
 
 - Rendelések vállalása
 - Kenyérfélék, egyedi és klasszikus édes, sós péksütemények
 
 *Kenyérfélék- Fehérkenyér, Félbarnakenyér, Rozskenyér, Rozsos kenyér, Graham-kenyér, Magvas Teljeskiörlésű kenyér, Ciabatta, Baguette.* -Különböző proporciókban
 
-*Édes péksütemény választék - (Magyar eredetű) Bukták, Briós, Kakaós/fahéjas csiga, Túrós péksütemények (batyu, pite), Piték (Almás, mákos, meggyes, túrós), croissant-ok, (Olasz eredetű) Cornetto brioche, Maritozzo, Pasticiotto, Cannoli, Stogliatelle*
+*Édes péksütemény választék - (Magyar eredetű) Bukták, Briós, Kakaós/fahéjas csiga, Túrós péksütemények (batyu, pite), Piték (Almás, mákos, meggyes, túrós), kalácsok, croissant-ok, (Olasz eredetű) Cornetto brioche, Maritozzo, Pasticiotto, Cannoli, Stogliatelle*
+
+
+*Egyedi péksüteményeink - Pisztáciakrémmel töltött, kétszínű croissant, Juharszirupos-pekándiós fonott táska, Málnás-rózsavizes cruffin, Kakaós és törökmogyorós "cube" (kocka croissant), Sós karamellás-pelyhes tengeri sós briós,
 
 *Sós pékárú választék - Perecek, Stanglik, (Sós aprósütemények) Pogácsák, Rúdak, Kis perecek, 
 
-- Torták (), sütemények
 
 
-2. másik
 
 ## kiemelések
 
@@ -26,7 +26,7 @@ alulvonással _dőlt_, __kövér__
 
 ## blokk
 
-    Ez egy kiemelt blokk
+    
 
 ## kódok
 
