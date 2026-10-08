@@ -20,9 +20,10 @@
 
 
 ## kiemelések
-
+- Elvárás egy megbízható, használatra és kinézetre elfogadható weboldal, a vállalat számára, rendelésre alkalmas és kedvező legyen
 szövegben *dőlt*, **kövér**
 alulvonással _dőlt_, __kövér__
+
 
 ## blokk
 
