@@ -1,8 +1,12 @@
 body{
-    
+
 }
 
 img{
     height: 300px;
+    width: ;
+}
 
+.card{
+    margin-right: 40px;
 }
