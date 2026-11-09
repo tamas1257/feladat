@@ -1,0 +1,14 @@
+header img {
+    height: 300px;
+    width: auto;
+}
+
+header {
+    text-align: center;
+
+}
+
+header h1 {
+    margin-left: 75px;
+    margin-right: 75px;
+}

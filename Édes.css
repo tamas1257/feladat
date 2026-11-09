@@ -1,0 +1,45 @@
+header img {
+    height: 300px;
+    width: auto;
+}
+
+header {
+    text-align: center;
+
+}
+
+header h1 {
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.Cannoli {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+.Cornetto {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+
+.Cannoli img,
+.Cornetto img {
+    width: 45%;
+    height: auto;
+}
+
+.Cannoli p,
+.Cornetto p {
+    width: 50%;
+}
+
+.Cannoli image{
+    
+}
