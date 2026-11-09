@@ -16,30 +16,48 @@ header h1 {
 .Cannoli {
     display: flex;
     align-items: center;
-    justify-content: space-between;
     margin-bottom: 40px;
+    border-radius: 15px;
+    background-color: lightpink;
 }
 
 .Cornetto {
     display: flex;
     flex-direction: row-reverse;
     align-items: center;
-    justify-content: space-between;
     margin-bottom: 40px;
+    border-radius: 15px;
+    background-color: antiquewhite;
 }
 
+.Cannoli img {
+    width: 325px;
+    height: 300px;
+}
 
-.Cannoli img,
 .Cornetto img {
-    width: 45%;
-    height: auto;
+    width: 415px;
+    height: 300px;
 }
 
-.Cannoli p,
-.Cornetto p {
-    width: 50%;
+.pékárú {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 20px;
+    margin-top: 20px;
 }
 
-.Cannoli image{
-    
+.pékárú>div {
+    gap: 40px;
+    justify-content: center;
+}
+
+.pékárú>div>p {
+    text-align: justify;
+    width: 70%;
+    padding: 20px;
+}
+
+.pékárú>div>img {
+    border-radius: 15px;
 }
