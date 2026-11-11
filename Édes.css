@@ -13,6 +13,54 @@ header h1 {
     margin-right: 75px;
 }
 
+.bemutatás {
+    border-radius: 15px;
+    background-color: lightsalmon;
+    text-align: justify;
+    padding: 24px;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.általános {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.általános .row {
+    background-color: #fcfcfc;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    overflow: hidden;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.általános img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 6px;
+    display: block;
+}
+
+.általános h4 {
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.általános p {
+    font-size: 14px;
+    color: #555;
+    margin: 0;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.Pasticciotto,
 .Cannoli {
     display: flex;
     align-items: center;
@@ -21,6 +69,19 @@ header h1 {
     background-color: lightpink;
 }
 
+.Pasticciotto:hover,
+.Cannoli:hover {
+    background-color: lightsalmon;
+    transition: background-color 0.33s ease;
+}
+
+.Sfogliatelle:hover,
+.Cornetto:hover {
+    background-color: rosybrown;
+    transition: background-color 0.33s ease;
+}
+
+.Sfogliatelle,
 .Cornetto {
     display: flex;
     flex-direction: row-reverse;
@@ -40,24 +101,141 @@ header h1 {
     height: 300px;
 }
 
-.pékárú {
+.Pasticciotto img {
+    width: 245px;
+    height: 315px;
+}
+
+.Sfogliatelle img {
+    width: 400px;
+    height: 300px;
+}
+
+.pékáru {
     max-width: 1000px;
     margin: 0 auto;
     padding: 0 20px;
     margin-top: 20px;
+
 }
 
-.pékárú>div {
+.pékáru>div {
     gap: 40px;
     justify-content: center;
 }
 
-.pékárú>div>p {
+.pékáru>div>p {
     text-align: justify;
     width: 70%;
     padding: 20px;
 }
 
-.pékárú>div>img {
+.pékáru>div>img {
     border-radius: 15px;
+}
+
+.elnevezés {
+    text-align: center;
+    margin-top: 40px;
+}
+
+hr {
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.egyedi {
+    max-width: 1000px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.egyedi-top {
+    margin-bottom: 30px;
+}
+
+.egyedi-item {
+    border-radius: 15px;
+    overflow: hidden;
+    height: 100%;
+    transition: background-color 0.33s ease;
+}
+
+.egyedi-top .egyedi-item {
+    background-color: lightpink;
+}
+
+.egyedi-bottom .egyedi-item {
+    background-color: antiquewhite;
+}
+
+.egyedi-top .egyedi-item:hover {
+    background-color: lightsalmon;
+}
+
+.egyedi-bottom .egyedi-item:hover {
+    background-color: rosybrown;
+}
+
+.egyedi-top img {
+    width: 100%;
+    height: 240px;
+    object-fit: cover;
+    display: block;
+}
+
+.egyedi-bottom img {
+    width: 100%;
+    height: 190px;
+    object-fit: cover;
+    display: block;
+}
+
+.egyedi-item>div {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.egyedi-item h4 {
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.egyedi-item p {
+    font-size: 15px;
+    text-align: justify;
+    line-height: 1.5;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.egyedi img {
+    object-fit: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    border-radius: 12px;
+}
+
+
+
+.egyedi .pisztácia {
+    height: 300px;
+    width: 400px;
+}
+
+.egyedi .pekándió{
+    height: 300px;
+    width: 400px;
 }
