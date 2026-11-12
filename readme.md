@@ -14,7 +14,7 @@
 
 *Egyedi péksüteményeink - Pisztáciakrémmel töltött, kétszínű croissant, Juharszirupos-pekándiós fonott táska, Málnás-rózsavizes cruffin, Kakaós és törökmogyorós "cube" (kocka croissant), Sós karamellás-pelyhes tengeri sós briós,
 
-*Sós pékárú választék - Perecek, Stanglik, (Sós aprósütemények) Pogácsák, Rúdak, Kis perecek, 
+*Sós pékárú választék - Perecek, Stanglik, "Hajtogatott, leveles tészták"-(töltött csigák, beleértve pestós, pizzás, baconös) "Hajtógatott leveles pogácsák, sós croissant-ok, töltött párnák és batyuk (spenótos, fetás, virslis "leveles")" (kelt/kovászos)"kiflik" "sajtos-sonkás kiflik, bajor lúgos perecek és stanglik/rúdak" (só, kömény, sajt) (Sós aprósütemények) Pogácsák (sajtos, burgonyás, juhtútós, túrós), sajtos tallérok, ?Sós kekszek? (Rúdak, Kis perecek), (Olasz eredetű) Focaccia, grissini
 
 
 
