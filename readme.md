@@ -7,7 +7,7 @@
 - Rendelések vállalása
 - Kenyérfélék, egyedi és klasszikus édes, sós péksütemények
 
-*Kenyérfélék- Fehérkenyér, Félbarnakenyér, Rozskenyér, Rozsos kenyér, Graham-kenyér, Magvas Teljeskiörlésű kenyér, Ciabatta, Baguette.* -Különböző proporciókban
+*Kenyérfélék- Fehérkenyér, Félbarnakenyér, Rozskenyér, Rozsos kenyér, Graham-kenyér, Magvas Teljeskiörlésű kenyér, Olasz eredetű - (sfilatino) Ciabatta, Francia eredetű - Baguette.* -Különböző proporciókban
 
 *Édes péksütemény választék - (Magyar eredetű) Bukták, Briós, Kakaós/fahéjas csiga, Túrós péksütemények (batyu, pite), Piték (Almás, mákos, meggyes, túrós), kalácsok, croissant-ok, (Olasz eredetű) Cornetto, Maritozzo, Pasticiotto, Cannoli, Sfogliatelle*
 
@@ -31,6 +31,8 @@ vegán, tejmentes(laktózmentes), tojásmentes, szénhidrátcsökkentett, teljes
 
 ## kiemelések
 - Elvárás egy megbízható, használatra és kinézetre elfogadható weboldal, a vállalat számára, rendelésre alkalmas és kedvező legyen
+
+
 szövegben *dőlt*, **kövér**
 alulvonással _dőlt_, __kövér__
 
