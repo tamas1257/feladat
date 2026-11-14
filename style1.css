@@ -12,3 +12,77 @@ header h1 {
     margin-left: 75px;
     margin-right: 75px;
 }
+
+
+header img {
+    height: 300px;
+    width: auto;
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+    background-color: rgb(245, 203, 153);
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.navbar {
+    margin-bottom: 40px;
+}
+
+.elnevezés {
+    text-align: center;
+    margin-top: 40px;
+}
+
+hr {
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 35px;
+}
+
+.bemutatás {
+    border-radius: 15px;
+    background-color: antiquewhite;
+    text-align: justify;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-left: 24px;
+    padding-right: 24px;
+    width: 85%;
+    margin-top: 0px;
+    margin-bottom: 45px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.galéria {
+    max-width: 1000px;
+    margin-top: 0px;
+    margin-bottom: 90px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.galéria .row {
+    margin-bottom: 50px;
+}
+
+.galéria img {
+    width: 100%;
+    height: 240px;
+    object-fit: cover;
+    border-radius: 15px;
+    display: block;
+    transition: transform 0.33s ease;
+}
+
+.galéria img:hover {
+    transform: scale(1.03);
+}

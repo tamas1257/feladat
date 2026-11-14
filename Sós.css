@@ -70,7 +70,7 @@ hr {
     flex-direction: row-reverse;
 }
 
-.sós .col-md-8 > div {
+.sós .col-md-8>div {
     background-color: antiquewhite;
     border-radius: 15px;
     padding-top: 24px;
@@ -80,15 +80,15 @@ hr {
     transition: background-color 0.33s ease;
 }
 
-.sós .col-md-8 > div:hover {
+.sós .col-md-8>div:hover {
     background-color: lightsalmon;
 }
 
-.sós .fordított .col-md-8 > div {
+.sós .fordított .col-md-8>div {
     background-color: lightpink;
 }
 
-.sós .fordított .col-md-8 > div:hover {
+.sós .fordított .col-md-8>div:hover {
     background-color: rosybrown;
 }
 

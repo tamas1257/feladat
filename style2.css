@@ -12,3 +12,84 @@ header h1 {
     margin-left: 75px;
     margin-right: 75px;
 }
+
+
+header img {
+    height: 300px;
+    width: auto;
+}
+
+header {
+    text-align: center;
+}
+
+.bemutatás {
+    border-radius: 15px;
+    background-color: lightpink;
+    text-align: justify;
+    padding: 24px;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+}
+
+hr {
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.elnevezés {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.kapcsolat {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 20px;
+    margin-bottom: 40px;
+}
+
+.elérhetőség {
+    background-color: antiquewhite;
+    border-radius: 15px;
+    padding: 24px;
+    margin-bottom: 25px;
+    transition: background-color 0.33s ease;
+}
+
+.elérhetőség:hover {
+    background-color: rosybrown;
+}
+
+legend,
+label {
+    font-weight: bold;
+}
+
+button {
+    background-color: lightsalmon;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-weight: bold;
+    margin-right: 10px;
+    transition: background-color 0.33s ease;
+}
+
+button:hover {
+    background-color: rosybrown;
+}
